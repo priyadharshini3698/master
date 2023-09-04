@@ -1,0 +1,9 @@
+{
+	"name": "priyadhivya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7755fb48-e5ae-4182-9baf-149e53a1e6c3",
+		"tenantId": "189de737-c93a-4f5a-8b68-6f4ca9941912"
+	}
+}
